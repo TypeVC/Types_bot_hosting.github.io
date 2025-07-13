@@ -1,1 +1,1 @@
-# Types_bot_hosting.github.io
+# Types_bot_hosting
